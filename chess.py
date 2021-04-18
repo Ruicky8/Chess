@@ -39,9 +39,4 @@ while True:
     if counter % 2 == 0:
         counter += play("White")
     else:
-<<<<<<< HEAD
         counter += play("Black")
-=======
-        counter += play("Black")
-    
->>>>>>> parent of 2e56bc3... Now you can't go over pieces
